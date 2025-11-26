@@ -1,3 +1,5 @@
+installs necessarios, recomendado rodar web
+
 npm install \
   @react-navigation/native \
   @react-navigation/stack \
